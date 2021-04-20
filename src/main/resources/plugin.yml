@@ -1,0 +1,8 @@
+name: VicnixEvents
+main: net.vicnix.serverevents.Main
+description: Vicnix Events
+version: 1.0.0
+author: ProxyCode
+commands:
+ ev:
+  description: Events command
